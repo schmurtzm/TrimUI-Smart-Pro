@@ -5,13 +5,13 @@
 How to install :
 ===================================================================
 Copy Apps, Emus and System folders to the root of your SD card, then run the app "BootLogo".
+Should be compatible on empty SD card, on stock SD card or Tomato OS.
 
 
 How to use with your own images :
 ===================================================================
 Copy your own .bmp image files in "Apps\BootLogo\Images".
 Run the "BootLogo" application.
-(Press select to hide the _BootLogo item in the emulator list)
 
 
 Some rules to respect to create your own boot logo :
@@ -28,6 +28,7 @@ Bootlogo app will check these parameters automatically :
 - Check if the file is really a BMP (bitmap) file (to avoid renaming with bad extension)
 - Check if the file size is inferior to 6MB
 TrimUI default stock bootlogo is included.
+Press select to hide the _BootLogo item in the emulator list.
 
 
 Special thanks to Kloptops for sdl2imgshow tool used in this app  :
