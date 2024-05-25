@@ -28,7 +28,7 @@ Bootlogo app will check these parameters automatically :
 - Check if the file is really a BMP (bitmap) file (to avoid renaming with bad extension)
 - Check if the file size is inferior to 6MB
 TrimUI default stock bootlogo is included.
-Press select to hide the _BootLogo item in the emulator list.
+Press MENU -> Edit to hide the "_BootLogo" item in the emulator list.
 
 
 Special thanks to Kloptops for sdl2imgshow tool used in this app  :
