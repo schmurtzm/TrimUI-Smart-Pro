@@ -7,7 +7,7 @@ Emucleaner is very usefull to :
  - Enable the right emulators just after having added new roms.
 
 <a href="./_assets/EmuCleaner.png">
-    <img src="./_assets/EmuCleaner.png" alt="EmuCleaner" width="320">
+    <img src="../_assets/EmuCleaner.png" alt="EmuCleaner" width="320">
 </a>
 
 

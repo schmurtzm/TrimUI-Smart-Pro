@@ -5,7 +5,7 @@ System Tools : is a kind of container for all the system apps created by the com
 It allows to have only one entry point, ordered by category to help the users to find the app or the script he needs. I have created it to organize Tomato's OS apps by sections and I've added some new tools.
 
 <a href="./_assets/System Tools.png">
-    <img src="./_assets/System Tools.png" alt="System Tools" width="320">
+    <img src="../_assets/System Tools.png" alt="System Tools" width="320">
 </a>
 
 ## Features :

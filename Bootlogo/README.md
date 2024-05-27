@@ -4,7 +4,7 @@
 An app for easy boot logo flashing on TrimUI Smart Pro
 
 <a href="./_assets/BootLogo.png">
-    <img src="./_assets/BootLogo.png" alt="BootLogo" width="320">
+    <img src="../_assets/BootLogo.png" alt="BootLogo" width="320">
 </a>
 
 How to install :
