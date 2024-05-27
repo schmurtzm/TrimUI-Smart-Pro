@@ -6,7 +6,7 @@ Emucleaner is very usefull to :
  - Avoid to have a lot of consoles in the list which are empty
  - Enable the right emulators just after having added new roms.
 
-<a href="./_assets/EmuCleaner.png">
+<a href="../_assets/EmuCleaner.png">
     <img src="../_assets/EmuCleaner.png" alt="EmuCleaner" width="320">
 </a>
 
