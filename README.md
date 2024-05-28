@@ -17,7 +17,10 @@
     <img src="./_assets/System Tools.png" alt="System Tools" width="320">
 </a>
 
- 
+ ## [System Tools](https://github.com/schmurtzm/TrimUI-Smart-Pro/tree/main/ResumeAtBoot) : a set of scripts to add resume game on startup feature ([Download](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fschmurtzm%2FTrimUI-Smart-Pro%2Ftree%2Fmain%2FResumeAtBoot))
+<a href="./_assets/ResumeAtBoot.png">
+    <img src="./_assets/ResumeAtBoot.png" alt="System Tools" width="320">
+</a>
 
 ------------------------------------------------
 
