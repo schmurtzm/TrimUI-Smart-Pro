@@ -13,6 +13,8 @@ Emucleaner is very usefull to :
 
 How to install :
 ===================================================================
+[Download](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fschmurtzm%2FTrimUI-Smart-Pro%2Ftree%2Fmain%2FEmuCleaner)
+
 Copy Apps and System folders to the root of your SD card, then run the app "EmuCleaner".
 
 

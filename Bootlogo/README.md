@@ -9,6 +9,8 @@ An app for easy boot logo flashing on TrimUI Smart Pro
 
 How to install :
 ===================================================================
+[Download](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fschmurtzm%2FTrimUI-Smart-Pro%2Ftree%2Fmain%2FBootlogo)
+
 Copy Apps, Emus and System folders to the root of your SD card, then run the app "BootLogo".
 
 

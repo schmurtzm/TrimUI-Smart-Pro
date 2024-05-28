@@ -2,20 +2,17 @@
  Apps, tools, templates and scripts for the TSP.
 
 
-## [BootLogo](https://github.com/schmurtzm/TrimUI-Smart-Pro/tree/main/Bootlogo) : An app for easy boot logo flashing on TrimUI Smart Pro
-
+## [BootLogo](https://github.com/schmurtzm/TrimUI-Smart-Pro/tree/main/Bootlogo) : An app for easy boot logo flashing on TrimUI Smart Pro ([Download](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fschmurtzm%2FTrimUI-Smart-Pro%2Ftree%2Fmain%2FBootlogo))
 <a href="./_assets/BootLogo.png">
     <img src="./_assets/BootLogo.png" alt="BootLogo" width="320">
 </a>
 
-## [EmuCleaner](https://github.com/schmurtzm/TrimUI-Smart-Pro/tree/main/EmuCleaner) : An app to display only emulators with roms installed.
-
+## [EmuCleaner](https://github.com/schmurtzm/TrimUI-Smart-Pro/tree/main/EmuCleaner) : An app to display only emulators with roms installed ([Download](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fschmurtzm%2FTrimUI-Smart-Pro%2Ftree%2Fmain%2FEmuCleaner))
 <a href="./_assets/EmuCleaner.png">
     <img src="./_assets/EmuCleaner.png" alt="EmuCleaner" width="320">
 </a>
 
-## [System Tools](https://github.com/schmurtzm/TrimUI-Smart-Pro/tree/main/SystemTools) : An app to centralize different apps/scripts in one place
-
+## [System Tools](https://github.com/schmurtzm/TrimUI-Smart-Pro/tree/main/SystemTools) : An app to centralize different apps/scripts in one place ([Download](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fschmurtzm%2FTrimUI-Smart-Pro%2Ftree%2Fmain%2FSystemTools))
 <a href="./_assets/System Tools.png">
     <img src="./_assets/System Tools.png" alt="System Tools" width="320">
 </a>
