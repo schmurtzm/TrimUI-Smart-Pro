@@ -30,6 +30,9 @@ Press Menu button in continue during boot to cancel the automatic resume (useful
 
 Additional information :
 ===================================================================
+Should work with all retroarch emulators but not standalones emus  : NDS (drastic) , OpenBor, PPSSPP which should start at boot but not resume their save state automatically (should be done manually).
+To force close a running emulator, the new shortcut is now Menu + Power, it will trigger a double red flash and a vibration then quit. 
+
 Resume at boot will start by replacing "/usr/trimui/bin/kill_apps.sh" script.
 This script is launched by TrimUI keymon daemon when you press Power button 3s.
 The new script will :
