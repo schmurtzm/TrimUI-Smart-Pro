@@ -12,6 +12,7 @@ How to install :
 [Download](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fschmurtzm%2FTrimUI-Smart-Pro%2Ftree%2Fmain%2FBootlogo)
 
 Copy Apps, Emus and System folders to the root of your SD card, then run the app "BootLogo".
+Not compatible with firmware 1.0.4 hotfix 9 (20240503) due to less free space in /dev/mmcblk0p1.
 
 
 How to use with your own images :
