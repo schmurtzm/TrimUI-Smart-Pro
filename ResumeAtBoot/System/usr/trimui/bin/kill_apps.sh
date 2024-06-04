@@ -67,29 +67,42 @@ pkill -9 runtrimui.sh
 
 pid=$1
 
+# Check if the pid is provided
+if [ -z "$pid" ]; then
+    echo "Usage: $0 <pid>"
+    exit 1
+fi
+
 ppid=$pid
-echo pid is $pid
-while [ "" != "$pid" ]; do
+echo "Initial pid: $pid"
+
+# Loop to find the last descendant process
+while [ -n "$pid" ]; do
    ppid=$pid
    pid=$(pgrep -P $ppid)
 done
 
-if [ "" != "$ppid" ]; then
+# Kill the last descendant process if it exists
+if [ -n "$ppid" ]; then
+   echo "Killing process $ppid"
    kill $ppid
 fi
 
-echo ppid $ppid quit
+# Wait while the process identified by ppid still exists
+while kill -0 $ppid 2>/dev/null; do
+   echo "Waiting for process $ppid to exit..."
+   wait $ppid 2>/dev/null
+done
 
-sleep 0.3
-# /usr/trimui/bin/sdl2play /mnt/SDCARD/trimui/res/sound/PowerOff.wav &
-# sleep 1
-# pkill -9 sdl2play
+echo "Process $ppid has exited."
+
+
 aplay /mnt/SDCARD/trimui/res/sound/PowerOff.wav -d 1
 
 pkill -f sdl2imgshow
 sync
 poweroff &
 
-sleep 6
+sleep 8
 /mnt/SDCARD/System/usr/trimui/scripts/cmd_to_run_killer.sh
 poweroff &
