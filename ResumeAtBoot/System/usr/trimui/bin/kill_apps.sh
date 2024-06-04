@@ -67,12 +67,6 @@ pkill -9 runtrimui.sh
 
 pid=$1
 
-# Check if the pid is provided
-if [ -z "$pid" ]; then
-    echo "Usage: $0 <pid>"
-    exit 1
-fi
-
 ppid=$pid
 echo "Initial pid: $pid"
 
