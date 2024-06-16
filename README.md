@@ -22,6 +22,11 @@
     <img src="./_assets/ResumeAtBoot.webp" alt="Resume at Boot" width="320">
 </a>
 
+ ## [Scraper](https://github.com/schmurtzm/TrimUI-Smart-Pro/tree/main/Scraper) : a screenscraper implementation in command line ([Download](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fschmurtzm%2FTrimUI-Smart-Pro%2Ftree%2Fmain%2FResumeAtBoot))
+<a href="./_assets/ResumeAtBoot.webp">
+    <img src="./_assets/scraper.webp" alt="Scraper" width="320">
+</a>
+
 ------------------------------------------------
 
 
