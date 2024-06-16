@@ -266,7 +266,8 @@ if [ -f "$ScraperConfigFile" ]; then
     echo "Current Region: $SelectedRegion"
     userSS=$(echo "$config" | jq -r '.screenscraper_username')
     passSS=$(echo "$config" | jq -r '.screenscraper_password')
-    ScrapeInBackground=$(echo "$config" | jq -r '.ScrapeInBackground')
+    # ScrapeInBackground=$(echo "$config" | jq -r '.ScrapeInBackground')
+    ScrapeInBackground="false"
     u=$(echo -n KUZE433CLBLHSZCIOB2AU=== | base32 -d | base64 -d)
     p=$(echo -n KZEFMTCTIRBHMWJQN55GKSCRGFKGOPJ5BI====== | base32 -d | base64 -d)
 
